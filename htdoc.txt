@@ -1,0 +1,25 @@
+Your Account Details
+
+Your account is now active.
+Main Hosting Details
+Control panel username
+b17_22471157
+Control panel password	**********
+Control panel URL
+cpanel.byethost17.com
+MySQL username
+b17_22471157
+MySQL password
+**********
+MySQL hostname
+sql303.byethost17.com
+FTP username
+b17_22471157
+FTP password
+**********
+FTP host name	ftp.byethost17.com
+
+
+Your Website URL's
+Home page
+http://juansebastian.byethost17.com
